@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+
+}
+
+.item {
+    margin: 10px;
+    flex-grow: 1;
+    height: 650px;
+    background-color: rgb(14, 51, 131);
+}
+
+.middle-item {
+    flex-grow: 2;
+    background-color: rgb(131, 14, 34);
+}
+

@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+
+}
+
+.item {
+    margin: 10px;
+    flex-grow: 1;
+    height: 325px;
+    width: 325px;
+    background-color: rgb(14, 51, 131);
+}
